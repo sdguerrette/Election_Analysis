@@ -17,6 +17,7 @@ This project was underataken to determine the the winning candidate for Colorado
 With the success of the script, we believe that the State of Colorado Election Commission would benifit by adopting and generalizing its use to be applied to any type of elecition within the state. The believe making the following changes would be in the best interest of the State.
 1. A section of code would be inserted into the beginning of the program that pulls information from the header of the accompanying CSV file. The focus of this code would be to gather the region type data for the election. In the instance of the congressional election, the region type would be "county." Other such types could be municipality, congressional district, or state.
 2. Once extracted from the CSV file, the region type would be assigned to a variable that would then be referenced throughout the rest of the code. This would ensure that the proper type is displayed to the terminal, as well as the text file that is created when the code is run. 
+
 We believe making these changes would allow the Election Commison to confidently apply this program to a variety of elections throughout the entire state, while ensure the results are displayed in and accurate, clean, and readable manner. 
   
 
